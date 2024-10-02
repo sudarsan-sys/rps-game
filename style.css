@@ -21,7 +21,7 @@ body{
     border: 3px solid white;
     background-color: transparent;
     margin-right: 10px;
-    cursor: cell;
+    cursor: pointer;
 
 }
 
